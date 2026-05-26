@@ -70,6 +70,7 @@ textarea {
     height: 140px;
 
     border: none;
+
     outline: none;
 
     resize: none;
@@ -117,7 +118,7 @@ button {
     background: linear-gradient(
         135deg,
         #22c55e,
-        #14b8a6
+        #14b8a6,
     );
 
     transition: 0.3s;
